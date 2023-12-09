@@ -145,7 +145,7 @@ gap: 40px;
 } */
 
 /*  Hero image section */
-.hero-page{
+/* .hero-page{
 background-color: #2E2F42;
 padding: 188px 0;
 background-image: linear-gradient(rgba(46, 47, 66, 0.70),
@@ -193,10 +193,10 @@ margin: 0 auto;
 .hero-button:hover,
 .hero-button:focus
 {   background-color: #404BBF;
-}
+} */
 /* Benefits */
 
-.benefits-main{
+/* .benefits-main{
     padding: 120px 0;
 }
 .benefits-list{
@@ -233,7 +233,7 @@ width: calc( (100% - 72px) / 4);
         line-height: 1.5;
         letter-spacing: 0.02em;
         
-}
+} */
 /*Our team */
 .team-main{
     padding: 120px 0;
